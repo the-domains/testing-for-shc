@@ -1,0 +1,14 @@
+layout_spectrum: 0.5227951959241182
+typography_spectrum: 0.8384049464948475
+color:
+  brandStrength: 0.39062234899029136
+  lightness: 0.9242939946707338
+  saturation: 0.9820355719421059
+  rhythmicContrast: 0.1676651407033205
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: Testing for SHC
